@@ -6,13 +6,12 @@ It focuses on implementing Access Control Lists (ACLs) to control traffic betwee
 The lab demonstrates how to restrict communication while maintaining necessary access, similar to real-world network security policies.
 
 ## Topology ##
-
-
-
-
-
-
-
+Vlans (2).jpg
+acl.jpg
+ipinterfaces.jpg
+ping-failed.jpg
+ping-success.jpg
+topology.jpg
 
 ##Network Design##
 
